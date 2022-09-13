@@ -1,4 +1,6 @@
-# CSCE_315 Group 22 Project 2 Phase 3
+# Inventory Management Program
+
+NOTE: We no longer have access to the database used in this project.
 
 To compile:
 javac -cp ".;jcommon-1.0.0.jar;jfreechart-1.0.1.jar" ManagerGUI.java GUI.java InventoryUsage.java
