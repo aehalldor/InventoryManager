@@ -1,0 +1,6 @@
+*.class
+postgresql-42.2.8.jar
+*.notes
+*.vscode
+*.vscode/*
+FXGui.java
