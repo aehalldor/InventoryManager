@@ -1,6 +1,6 @@
 # Inventory Management Program
 
-NOTE: We no longer have access to the database used in this project.
+NOTE: I no longer have access to the database used in this project so it will compile but password authentication will fail upon running.
 
 To compile:
 javac -cp ".;jcommon-1.0.0.jar;jfreechart-1.0.1.jar" ManagerGUI.java GUI.java InventoryUsage.java
